@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational neurosciences, statistics, optimization, image processing, artificial intelligence.
 - 🌱 I’m currently learning bayesian inference.
 - 💞️ I’m looking to collaborate on making interesting research in interdisciplinary fields. (biology, medicine, sport, ecology)
-- 📫 How to reach me samuel.kubler@pasteur.fr
+- 📫 How to reach me kubler@bio.ens.psl.eu
 
 <!---
 SamKblr/SamKblr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
